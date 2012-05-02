@@ -2,87 +2,116 @@
 	[%d Comment]
 		en = %d Comment
 		fr = %d Commentaire
+		zh-Hans = %d 评论
 	[%d Comments]
 		en = %d Comments
 		fr = %d Commentaires
+		zh-Hans = %d 评论
 	[%d days ago]
 		en = %d days ago
 		fr = il y a %d jours
+		zh-Hans = %d 天前
 	['Member since 'MMM yyyy]
 		en = 'Member since 'MMM yyyy
 		fr = 'Membre depuis 'MMM yyyy
+		zh-Hans = '成员直到'
 	[0 votes]
 		en = 0 votes
-    fr = 0 votes
+	    fr = 0 votes
+	    zh-Hans = 0 投票
 	[1 Comment]
 		en = 1 Comment
 		fr = 1 Commentaire
+		zh-Hans = 1 评论
 	[1 vote]
 		en = 1 vote
-    fr = 1 vote
+    	fr = 1 vote
+    	zh-Hans = 1 投票
 	[2 votes]
 		en = 2 votes
 		fr = 2 votes
+		zh-Hans = 2 投票
 	[3 votes]
 		en = 3 votes
 		fr = 3 votes
+		zh-Hans = 3 投票
 	[A suggestion with this title already exists. Please change the title.]
 		en = A suggestion with this title already exists. Please change the title.
+		zh-Hans = 这个标题的建议已经存在，请换个标题吧
 	[Add]
 		en = Add
-    fr = Ajouter
+    	fr = Ajouter
+    	zh-Hans = 添加
 	[Add a comment...]
 		en = Add a comment...
 		fr = Ajouter un commentaire
+		zh-Hans = 添加一条评论...
 	[admin]
 		en = admin
+		zh-Hans = 管理
 	[Anonymous]
 		en = Anonymous
 		fr = Anonyme
+		zh-Hans = 匿名
 	[Are you sure you want to flag this idea as inappropriate?]
 		en = Are you sure you want to flag this idea as inappropriate?
 		fr = Etes-vous sûr de vouloir signaler ce commentaire comme abusif?
+		zh-Hans = 确定要废弃这个提议吗？
 	[Back]
 		en = Back
 		fr = Retour
+		zh-Hans = 返回
 	[Cancel]
 		en = Cancel
 		fr = Quitter
+		zh-Hans = 取消
 	[Category]
 		en = Category
 	[Changing your email address will require it to be confirmed again.]
 		en = Changing your email address will require it to be confirmed again.
 		fr = Changer votre adresse mail implique une nouvelle confirmation.
+		zh-Hans = 修改邮箱地址的话需要重新验证新的地址。
 	[Checking...]
 		en = Checking...
 		fr = en cours de vérification...
+		zh-Hans = 检查中...
 	[Close]
 		en = Close
 		fr = Fermer
+		zh-Hans = 关闭
 	[Comments]
 		en = Comments
+		zh-Hans = 评论
 	[Connecting to UserVoice]
 		en = Connecting to UserVoice
 		fr = En cours de connexion à UserVoice
+		zh-Hans = 连接UserVoice中
 	[Contact %@]
 		en = Contact %@
+		zh-Hans = 联系 %@
 	[Contact support]
 		en = Contact support
 		fr = Contactez l'assistance technique
+		zh-Hans = 联系支持
 	[Contact Us]
 		en = Contact Us
 		fr = Contactez-nous
+		zh-Hans = 联系我们
 	[Create Account]
 		en = Create Account
 		fr = Créer un compte
+		zh-Hans = 创建一个帐户
 	[Create idea]
 		en = Create idea
+		zh-Hans = 创建一个建议
 	[Created %d %@]
 		en = Created %1$d %2$@
 		fr = Créé %d %@
+		zh-Hans = 创建 %1$d %2$@
 	[Created by]
 		en = Created by
 		fr = Créé par
+		zh-Hans = 
 	[Description (optional)]
 		en = Description (optional)
 	[Edit my profile]
@@ -93,198 +122,267 @@
 		fr = Editer son profil
 	[Email]
 		en = Email
-    fr = Email
+		fr = Email
+		zh-Hans = 邮箱
 	[Error]
 		en = Error
 		fr = Erreur
+		zh-Hans = 错误
 	[Feedback]
 		en = Feedback
 		fr = Retours
+		zh-Hans = 反馈
 	[Feedback & Support]
 		en = Feedback & Support
-    fr = Retours & Aide technique
+		fr = Retours & Aide technique
+		zh-Hans = 支持与反馈
 	[Feedback powered by UserVoice]
 		en = Feedback powered by UserVoice
 		fr = Retour réalisé grâce à UserVoice
+		zh-Hans = 反馈支持来自UserVoice
 	[Flag]
 		en = Flag
 		fr = Signaler
+		zh-Hans = 标记
 	[Flag as inappropriate]
 		en = Flag as inappropriate
 		fr = Signaler un abus
+		zh-Hans = 标记为无效
 	[Flag Comment?]
 		en = Flag Comment?
 		fr = Signaler ce commentaire ?
+		zh-Hans = 标记评论？
 	[Flag Idea?]
 		en = Flag Idea?
 		fr = Signaler cette idée ?
+		zh-Hans = 标记建议？
 	[Forgot your password?]
 		en = Forgot your password?
 		fr = Mot de passe oublié ?
+		zh-Hans = 忘记密码？
 	[Give feedback]
 		en = Give feedback
 		fr = Donner son retour
+		zh-Hans = 添加反馈
 	[Idea]
 		en = Idea
 		fr = Idée
+		zh-Hans = 建议
 	[idea]
 		en = idea
 		fr = idée
+		zh-Hans = 建议
 	[ideas]
 		en = ideas
 		fr = idées
+		zh-Hans = 建议
 	[Ideas]
 		en = Ideas
 		fr = Idées
+		zh-Hans = 建议
 	[Ideas Created]
 		en = Ideas Created
 		fr = Idées crééés
+		zh-Hans = 建议已创建
 	[Ideas Supported]
 		en = Ideas Supported
 		fr = Idées approuvées
+		zh-Hans = 被支持的建议
 	[Load more comments...]
 		en = Load more comments...
 		fr = Télécharger plus de commentaires...
+		zh-Hans = 加载更多评论...
 	[Load more ideas...]
 		en = Load more ideas...
 		fr = Télécharger plus de idées...
+		zh-Hans = 加载更多建议...
 	[Loading...]
 		en = Loading...
 		fr = Télécharger...
+		zh-Hans = 加载中...
 	[Logout from UserVoice]
 		en = Logout from UserVoice
 		fr = Se déconnecter d'UserVoice
+		zh-Hans = 注销UserVoice
 	[Looks like it's your first time here, welcome to UserVoice!]
 		en = Looks like it's your first time here, welcome to UserVoice!
 		fr = Comme c'est votre première fois sur UserVoice, nous vous souhaitons la bienvenue!
+		zh-Hans = 看起来您是第一次使用，欢迎使用UserVoice
 	[Message]
 		en = Message
+		zh-Hans = 消息
 	[My Profile]
 		en = My Profile
 		fr = Mon Profil
+		zh-Hans = 我的个人档
 	[My profile]
 		en = My profile
 		fr = Mon profil
+		zh-Hans = 我的个人档
 	[Name]
 		en = Name
 		fr = Nom
+		zh-Hans = 姓名
 	[New Suggestion]
 		en = New Suggestion
+		zh-Hans = 新的建议
 	[OK]
 		en = OK
 		fr = OK
+		zh-Hans = 确定
 	[Password]
 		en = Password
 		fr = Mot de passe
+		zh-Hans = 密码
 	[Please enter your email address before submitting your suggestion.]
 		en = Please enter your email address before submitting your suggestion.
+		zh-Hans = 在提交建议前,请先输入您的邮箱地址。
 	[Please enter your email address before submitting your ticket.]
 		en = Please enter your email address before submitting your ticket.
 		fr = Merci d'enregister votre email avant de soumettre votre proposition.
+		zh-Hans = 在提交投票前,请先输入您的邮箱地址.
 	[Please enter your email address.]
 		en = Please enter your email address.
 		fr = Merci d'entrer votre email.
+		zh-Hans = 请输入您的邮箱地址。
 	[Please sign in here to comment.]
 		en = Please sign in here to comment.
+		zh-Hans = 请登陆后评论。
 	[Post date]
 		en = Post date
 		fr = Date de l'envoi
+		zh-Hans = 发表日期
 	[Required]
 		en = Required
 		fr = Obligatoire
+		zh-Hans = 需要
 	[Send]
 		en = Send
 		fr = Envoyer
+		zh-Hans = 发送
 	[Sign In]
 		en = Sign In
 		fr = Se connecter
+		zh-Hans = 登陆
 	[Sign in]
 		en = Sign in
 		fr = Se connecter
+		zh-Hans = 登陆
 	[Sorry, there was an error in the application.]
 		en = Sorry, there was an error in the application.
 		fr = Désolé, il y a une erreur dans l'application.
+		zh-Hans = 对不起,程序出错。
 	[Sorry, you have no more votes remaining in this forum.]
 		en = Sorry, you have no more votes remaining in this forum.
 		fr = Désolé, vous n'avez pas assez de votes dans ce forum.
+		zh-Hans = 对不起,您的论坛选票已用完。
 	[Sorry, you have run out of votes.]
 		en = Sorry, you have run out of votes.
+		zh-Hans = 对不起，您的选票已用完。
 	[Status: %@]
 		en = Status: %@
+		zh-Hans = 状态:%@
 	[Subject]
 		en = Subject
 		fr = Sujet
+		zh-Hans = 标题
 	[Success]
 		en = Success
 		fr = Succès
+		zh-Hans = 成功
 	[Supporting %d %@]
 		en = Supporting %d %@
 		fr = Supporting %d %@
+		zh-Hans = 支持 %d %@
 	[There appears to be a problem with your network connection, please check your connectivity and try again.]
 		en = There appears to be a problem with your network connection, please check your connectivity and try again.
-		fr = Apparemment il y a un problème avec votre connection Internet, veuillez vérifier votre accès au réseau et essayez de nouveau.
+		fr = Apparemment il y a un problème avec votre connection Internet, veuillez vérifier votre accès au réseau et essayez de nouveau.\
+		zh-Hans = 您的网络好像有问题，请检查网络连接后再试。
 	[There was a problem logging you in, please check your password and try again.]
 		en = There was a problem logging you in, please check your password and try again.
 		fr = Il y a eu un problème durant votre identification, veuillez vérifier votre mot de passe et essayez de nouveau s'il-vous-plaît.
+		zh-Hans = 登陆出错，请检查密码再试。
 	[This application didn't configure UserVoice properly]
 		en = This application didn't configure UserVoice properly
 		fr = Cette application n'a pas configuré UserVoice
+		zh-Hans = 应用配置UserVoice错误
 	[Type]
 		en = Type
+		zh-Hans = 类型
 	[Update]
 		en = Update
 		fr = Mettre à jour
+		zh-Hans = 更新
 	[User name]
 		en = User name
+		zh-Hans = 用户名
 	[User Profile]
 		en = User Profile
 		fr = Profil utilisateur
+		zh-Hans = 用户配置
 	[vote]
 		en = vote
-    fr = vote
+		fr = vote
+		zh-Hans = 投票
 	[vote has]
 		en = vote has
 		fr = vote est
+		zh-Hans = 选票已经
 	[votes]
 		en = votes
+		zh-Hans = 选票
     fr = votes
 	[votes have]
 		en = votes have
 		fr = votes sont
+		zh-Hans = 选票已经
 	[Voting for this suggestion is now closed and your %d %@ been returned to you]
 		en = Voting for this suggestion is now closed and your %1$d %2$@ been returned to you
 		fr = Voter pour cette suggestion n'est plus possible et votre %d %@ vous a été retourné.
+		zh-Hans = 该建议的投票已经关闭，您的 %d %@ 将返回
 	[Want to send a private message instead?]
 		en = Want to send a private message instead?
+		zh-Hans = 发送一个私信？
 	[Want to suggest an idea instead?]
 		en = Want to suggest an idea instead?
 		fr = Voulez-vous suggérer une autre idée à la place ?
+		zh-Hans = 发表一个建议？
 	[We've sent an email telling you how to login and change your password.]
 		en = We've sent an email telling you how to login and change your password.
 		fr = Nous vous avons envoyé un email vous expliquant comment vous identifier et changer de mot de passe.
+		zh-Hans = 我们已经发送邮件告诉您如何登陆和修改密码。
 	[Welcome]
 		en = Welcome
 		fr = Bienvenue
+		zh-Hans = 欢迎
 	[Welcome back! We found your profile, but we need you to sign in to verify you are... you.]
 		en = Welcome back! We found your profile, but we need you to sign in to verify you are... you.
 		fr = Bienvenue ! Nous avons trouvé votre profil, cependant nous avons besoin que vous vous identifiez afin de vérifier qui vous êtes.
+		zh-Hans = 欢迎回来！我们发现了您的配置需要登陆后确认。
 	[You have %d %@ remaining in this forum]
 		en = You have %1$d %2$@ remaining in this forum
 		fr = Vous avez %d %@ maintenu dans ce forum.
+		zh-Hans = 您论坛还剩余 ％1$d %2$@
 	[You have successfully flagged this comment as inappropriate.]
 		en = You have successfully flagged this comment as inappropriate.
 		fr = Votre signalement d'un commentaire abusif a été réalisé avec succès.
+		zh-Hans = 您已经成功标记该评论为无效。
 	[You have successfully flagged this idea as inappropriate.]
 		en = You have successfully flagged this idea as inappropriate.
 		fr = Votre signalement d'une idée abusive a été réalisé avec succès.
+		zh-Hans = 您已经成功标记该建议无效。
 	[You will need to sign in to vote.]
 		en = You will need to sign in to vote.
 		fr = Vous aurez besoin de vous identifier pour voter.
+		zh-Hans = 您需要登陆后投票
 	[Your email has not yet been confirmed]
 		en = Your email has not yet been confirmed
 		fr = Votre email n'a pas été encore confirmé
+		zh-Hans = 您的邮件地址尚未确认。
 	[Your idea "%@" was successfully created.]
 		en = Your idea "%@" was successfully created.
+		zh-Hans = 您的建议"%@"已经成功创建。
 	[Your ticket was successfully submitted.]
 		en = Your ticket was successfully submitted.
 		fr = Votre commentaire a été soumis avec succès.
+		zh-Hans = 您的选票已经成功提交。
